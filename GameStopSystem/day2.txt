@@ -1,0 +1,5 @@
+Gadget,311222,Microphone,300.00,Fifine
+Game,111222,The Witcher, 200.56
+Game,113233,Spider Man - Miles Morales,50.20
+Gadget,312312,Headphones,199,Corsair HS50
+Console,211222,XBOX X,200.99,Microsoft
