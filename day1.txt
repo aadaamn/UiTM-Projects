@@ -1,7 +1,0 @@
-Game,111000,The Legend of Zelda,59.99
-Console,202020,PlayStation 5,1999.99,Sony
-Game,121321,Mario Kart 8 Deluxe,59.99
-Gadget,333123,Wireless Controller,59.99,DualShock 4
-Game,112132,The Last of Us,199.90
-Gadget,312312,Headphones,109.20,Beats Headphones
-Console,211222,XBOX 360,200.99,Microsoft
