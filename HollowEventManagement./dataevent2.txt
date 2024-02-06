@@ -1,0 +1,11 @@
+1011;The Dawn Tour;A;11/12/2024;Axiata Arena;LeeHi, Sean, Bruno;200.0;1500;true;Lim Khuat
+1012;Cold Ice Street Fashion;B;10/06/2024;TRX Mall;Masdo;89.0;200;false;Eddie Izzwann
+1013;Kyoto Auto Salon;C;09/07/2024;Setia Spice Convention Centre;Yuta;150.0;500;true;Kim Lee
+1014;The Weekend Live in KL;A;01/01/2025;Stadium Nasional Bukit Jalil;The Weekend;299;1000;true;Josh Wang
+1015;Insomiaks - Malam Galau Bersama;A;09/6/2024;MAEPS Serdang;Insomiaks;40;500;false;Sophia
+1016;Thrifting Makes Sense!;C;09/07/2024;Mines 2;-;5;1000;true;Adam
+1017;Coldplay World Tour;A;07/09/2025;Stadium Nasional Bukit Jalil;Coldplay;599;1000;true;Saei
+1018;Nissan Vintage World;C;23/01/2024;One Utama;-;30;800;true;Kim Wong Siu
+1019;IT Digital Malaysia;C;01/11/2024;One Utama;-;0;1000;true;Dato Kim
+1020;ForceParkBois Showcase Capsule;A;09/09/2025;Lot 10, Bukit Bintang;ForceParkBois;0;300;true;Sophia Razak
+1021;Malaysia Airlines Popup;C;18/05/2024;KLCC;-;0;1000;true;Dr Razak

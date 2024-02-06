@@ -1,0 +1,11 @@
+1001;Concert Hausboom;A;11/09/2024;MAEPS Serdang;Chronicalz,FPB,Dolla;60.0;500;true;Sophia Razak
+1002;GDAY Budak Belakang;A;20/08/2024;Bukit Bintang;Joe Flizzow, Alyph, FBP;45.0;350;false;Irfan Bakri
+1003;KL Fashion Show;B;03/05/2024;KLCC;Ashraff Anuar;0;180;true;Hifzan Saari
+1004;Sneakerlah: Brand New;C;04/07/2024;MidValley;Sean Wotherspoon;20.0;1000;false;Bryan Botak Chin
+1005;SVG Anniversary Day!;C;09/09/2025;MidValley;Ashraff Anuar;0;1000;true;Donda Vision
+1006;OPT Anniversary Day!;C;01/10/2024;One Utama;Hakim Mazlan;0;1000;true;Khalies Dosa
+1007;Hype Showcase New Season;B;01/10/2024;Pavilion KL;ALYPH;0;1000;true;Bakhri Bie
+1008;Joji, New World;A;15/07/2025;Stadium Nasional Bukit Jalil;Joji;399;1000;true;Josh 
+1009;Travis Scott ASTROWORLD;A;24/09/2025;Stadium Nasional Bukit Jalil;Travis Scott;499;1000;true;Kshie
+1010;Cancer World Day;C;19/02/2024;One Utama;-;0;0;true;Dr Ibrahim
+
